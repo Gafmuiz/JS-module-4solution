@@ -10,4 +10,4 @@
 // }
     window.byeSpeaker = byeSpeaker;
 })(window);
-window.byeSpeaker.speak(names);
+// window.byeSpeaker.speak(names);

@@ -10,4 +10,3 @@
 // }
     window.helloSpeaker = helloSpeaker;
 })(window);
-// window.helloSpeaker.speak(names);
